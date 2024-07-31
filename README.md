@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Visitas](https://hits.sh/github.com/JessBasile.svg?label=Visitas)](https://hits.sh/github.com/JessBasile/)
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=jesibasile&theme=dracula)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=jessbasile&theme=dracula)
 

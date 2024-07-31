@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Visitas](https://hits.sh/github.com/JessBasile.svg?label=Visitas)](https://hits.sh/github.com/JessBasile/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=merko)
 

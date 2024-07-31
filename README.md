@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Visitas](https://hits.sh/github.com/JessBasile.svg?label=Visitas)](https://hits.sh/github.com/JessBasile/)
+[![Visitas](https://hits.sh/github.com/JessBasile.svg?label=Profile Views)](https://hits.sh/github.com/JessBasile/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=blueberry)
 

@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 ![Saludando](https://media.giphy.com/media/3oFzmd7b0GlW6lG5gk/giphy.gif)
+
 
 <!--
 **JessBasile/JessBasile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -19,8 +19,6 @@ Mi expectativa es profundizar el campo de análisis de los datos, e incluso incu
 
 
 ## Acerca de mi
- <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
- <p align="right">
 - 🚀 **Proyectos destacados:** 
   - **Desarrollo de dashboards interactivos en Power BI**
   - **Creación de una base de datos relacional para una empresa**

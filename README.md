@@ -1,4 +1,3 @@
-![GIF_LINEAS](https://github.com/JessBasile/JessBasile/blob/main/lineas%20analisis.gif?raw=true)
 
 ## Hi there 👋 
 

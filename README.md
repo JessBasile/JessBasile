@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true" alt="Descripción de la imagen" style="max-width: 100%; height: auto;">
+    <img src="https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true" alt="Descripción del GIF" style="width: 100%; max-width: 800px; height: auto;">
 </p>
 
 <h1 align="center">Hi 👋,</h1>

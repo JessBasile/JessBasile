@@ -2,8 +2,8 @@
     <img src="https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true" alt="Descripción del GIF" style="width: 100%; max-width: 800px; height: auto;">
 </p>
 
-<h2 align="center">¡Bienvenido/a! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Siéntete como en casa mientras exploras mis proyectos y contactame si te resultan interesantes 🚀</h2>
-<h3 align="center">Soy una apasionada por el Analisis de datos 💻 en constante capacitación 👩‍🎓</h3>
+<h2 align="center">¡Bienvenido/a! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Soy Jesica Brenda Basile</h2>
+<h3 align="center">Apasionada por el Analisis de datos 💻 en constante capacitación 👩‍🎓</h3>
  
 <!--
 **JessBasile/JessBasile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

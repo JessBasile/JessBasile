@@ -23,6 +23,12 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 
 
 
+
+
+
+
+
+
 ## Acerca de mi
  <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
  <p align="right">

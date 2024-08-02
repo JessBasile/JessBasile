@@ -13,7 +13,34 @@ Me desempeño como Responsable de finanzas hace más de una década  y como doce
 
 Mi expectativa es profundizar el campo de análisis de los datos, e incluso incursionar en el mundo de la ingeniería de datos para desarrollar fuertes habilidades y experiencia en la recolección, limpieza y análisis, optimización de procesos y resolución de problemas complejos. Mi carrera se define por un compromiso con el aprendizaje continuo y la adaptación a nuevas tecnologías en un contexto tan dinámico.
 Estoy muy entusiasmada por relacionarme con otras personas que compartan la misma pasión por los datos y explorar oportunidades profesionales que compartan información valiosa y espíritu de crecimiento.
+- 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE
+- 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
+- 📚 **Tecnologías:** **MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver**
+- 📫 Contactamé a través de **jessbrenba@gmail.com**
 
-- 📫 How to reach me **jessbrenba@gmail.com**
+- 🚀 **Proyectos destacados:** 
+  - **Desarrollo de dashboards interactivos en Power BI**
+  - **Creación de una base de datos relacional para una empresa**
+  - **Trabajos finales de posgrados en docencia**
+  - 
+## 🏅 Certificaciones en Tecnologías:**
 
+- **📊 Bootcamp: Data Analytics**
+  - **Institución:** CODERHOUSE
+  - **Fecha de Obtención:** [03-2024]
+  - **Descripción:** Dominio de SQL Server y validación de habilidades en el análisis de datos usando Power BI.
+
+- **🗃️ Bootcamp: SQL**
+  - **Institución:** CODERHOUSE
+  - **Fecha de Obtención:** [08/2024]
+  - **Descripción:** Competencia en la administración de bases de datos MySQL, incluyendo configuración, importación, optimización, entro otros.
+
+- 🏆 **Logros académicos:** 
+  - **Contadora Pública**
+  - **Maestría en Dirección y Gestión de Recursos Humanos**
+  - **Múltiples posgrados en docencia universitaria**
+ 
+  ### 🎨 Hobbies:
+  **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=blueberry)

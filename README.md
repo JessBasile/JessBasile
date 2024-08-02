@@ -22,17 +22,14 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
   - **Desarrollo de dashboards interactivos en Power BI**
   - **Creación de una base de datos relacional para una empresa**
   - **Trabajos finales de posgrados en docencia**
-  - 
 - 🏅 **Certificaciones en Tecnologías:**
 - **📊 Bootcamp: Data Analytics**
 - **🗃️ Bootcamp: SQL**
- 
-- 🏆 **Logros académicos:** 
+ - 🏆 **Logros académicos:** 
   - **Contadora Pública**
   - **Maestría en Dirección y Gestión de Recursos Humanos**
   - **Múltiples posgrados en docencia universitaria**
- 
-  ### 🎨 Hobbies:
+   ### 🎨 Hobbies:
   **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=blueberry)

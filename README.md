@@ -20,38 +20,41 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 
 
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <div style="text-align: left;">
-        - 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE<br>
-        - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**<br>
-        - 📚 **Tecnologías:** **MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver**<br>
-        - 📫 Contáctame a través de **jessbrenba@gmail.com**<br><br>
+<div style="display: flex; align-items: flex-start;">
+  <!-- Imagen a la izquierda -->
+  <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 400px; height: auto; margin-right: 20px;">
+  
+  <!-- Texto a la derecha -->
+  <div style="max-width: 600px;">
+    <p>- 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE</p>
+    <p>- 🛠 <strong>Habilidades:</strong> <strong>Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc</strong></p>
+    <p>- 📚 <strong>Tecnologías:</strong> <strong>MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver</strong></p>
+    <p>- 📫 Contactame a través de <strong>jessbrenba@gmail.com</strong></p>
 
-        - 🚀 **Proyectos destacados:**<br>
-          - **Desarrollo de dashboards interactivos en Power BI**<br>
-          - **Creación de una base de datos relacional para una empresa**<br>
-          - **Trabajos finales de posgrados en docencia**<br><br>
+    <p>- 🚀 <strong>Proyectos destacados:</strong></p>
+    <ul>
+      <li><strong>Desarrollo de dashboards interactivos en Power BI</strong></li>
+      <li><strong>Creación de una base de datos relacional para una empresa</strong></li>
+      <li><strong>Trabajos finales de posgrados en docencia</strong></li>
+    </ul>
 
-        - 🏅 **Certificaciones en Tecnologías:**<br>
-          - **📊 Bootcamp: Data Analytics**<br>
-          - **🗃️ Bootcamp: SQL**<br><br>
+    <p>- 🏅 <strong>Certificaciones en Tecnologías:</strong></p>
+    <ul>
+      <li><strong>📊 Bootcamp: Data Analytics</strong></li>
+      <li><strong>🗃️ Bootcamp: SQL</strong></li>
+    </ul>
 
-        - 🏆 **Logros académicos:**<br>
-          - **Contadora Pública**<br>
-          - **Maestría en Dirección y Gestión de Recursos Humanos**<br>
-          - **Múltiples posgrados en docencia universitaria**<br><br>
+    <p>- 🏆 <strong>Logros académicos:</strong></p>
+    <ul>
+      <li><strong>Contadora Pública</strong></li>
+      <li><strong>Maestría en Dirección y Gestión de Recursos Humanos</strong></li>
+      <li><strong>Múltiples posgrados en docencia universitaria</strong></li>
+    </ul>
 
-        ### 🎨 Hobbies:<br>
-          **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
-      </div>
-    </td>
-  </tr>
-</table>
+    <p><strong>🎨 Hobbies:</strong><br> <strong>Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar</strong></p>
+  </div>
+</div>
+
 
 
 

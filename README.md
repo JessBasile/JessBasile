@@ -8,7 +8,7 @@
 [![Hits](https://hits.sh/github.com/JessBasile.svg?label=Profile%20views)](https://hits.sh/github.com/JessBasile/)
 
 ## Mi Trayectoria como profesional
-<img align="left" alt="cubo" width="400" src="https://github.com/JessBasile/JessBasile/blob/main/cubo.gif?raw=true" style="margin-right: 15px;">
+<img align="left" alt="cubo" width="400" src="https://github.com/JessBasile/JessBasile/blob/main/cubo.gif?raw=true" style="margin-right: 30px;">
 
 Me desempeño como Responsable de finanzas hace más de una década  y como docente universitaria.  Mi descubrimiento por el análisis de los datos provocó un cambio de perspectiva profesional en mi vida, y desde entonces aposté a desarrollar una sólida base en Excel, Power BI, SQL Server, MySQL, y próximamente muchas herramientas más.
 

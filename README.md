@@ -22,10 +22,10 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 
 
 
-<!
+
 ## Acerca de mi
  <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
- <div style="text-align: right;">
+ <p align="right">
 - 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE
 - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
 - 📚 **Tecnologías:** **MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver**
@@ -43,7 +43,7 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
   - **Múltiples posgrados en docencia universitaria**
 ### 🎨 Hobbies:
   **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
- </div>
+ </p>
 
 
 

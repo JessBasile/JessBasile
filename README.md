@@ -1,4 +1,7 @@
-![Descripción de la imagen](https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true)
+<p align="center">
+    <img src="https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true" alt="Descripción de la imagen" style="max-width: 100%; height: auto;">
+</p>
+
 
 ## Hi there 👋 
 

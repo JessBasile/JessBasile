@@ -19,43 +19,27 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 
 
 
-
-<div style="display: flex; align-items: flex-start;">
-  <!-- Imagen a la izquierda -->
-  <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 300px; height: auto; margin-right: 20px;">
-
-  <!-- Texto a la derecha -->
-  <div style="flex: 1;">
-    <p>- 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE</p>
-    <p>- 🛠 <strong>Habilidades:</strong> <strong>Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc</strong></p>
-    <p>- 📚 <strong>Tecnologías:</strong> <strong>MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver</strong></p>
-    <p>- 📫 Contactame a través de <strong>jessbrenba@gmail.com</strong></p>
-
-    <p>- 🚀 <strong>Proyectos destacados:</strong></p>
-    <ul>
-      <li><strong>Desarrollo de dashboards interactivos en Power BI</strong></li>
-      <li><strong>Creación de una base de datos relacional para una empresa</strong></li>
-      <li><strong>Trabajos finales de posgrados en docencia</strong></li>
-    </ul>
-
-    <p>- 🏅 <strong>Certificaciones en Tecnologías:</strong></p>
-    <ul>
-      <li><strong>📊 Bootcamp: Data Analytics</strong></li>
-      <li><strong>🗃️ Bootcamp: SQL</strong></li>
-    </ul>
-
-    <p>- 🏆 <strong>Logros académicos:</strong></p>
-    <ul>
-      <li><strong>Contadora Pública</strong></li>
-      <li><strong>Maestría en Dirección y Gestión de Recursos Humanos</strong></li>
-      <li><strong>Múltiples posgrados en docencia universitaria</strong></li>
-    </ul>
-
-    <p><strong>🎨 Hobbies:</strong><br> <strong>Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar</strong></p>
-  </div>
-</div>
-
-
+<div style="text-align: right;">
+- 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE
+- 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
+- 📚 **Tecnologías:** **MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver**
+- 📫 Contactamé a través de **jessbrenba@gmail.com** </div>
+ <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
+ <div style="text-align: right;">
+- 🚀 **Proyectos destacados:** 
+  - **Desarrollo de dashboards interactivos en Power BI**
+  - **Creación de una base de datos relacional para una empresa**
+  - **Trabajos finales de posgrados en docencia**
+- 🏅 **Certificaciones en Tecnologías:**
+  - **📊 Bootcamp: Data Analytics**
+  - **🗃️ Bootcamp: SQL**
+- 🏆 **Logros académicos:** 
+  - **Contadora Pública**
+  - **Maestría en Dirección y Gestión de Recursos Humanos**
+  - **Múltiples posgrados en docencia universitaria**
+### 🎨 Hobbies:
+  **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
+ </div>
 
 
 

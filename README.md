@@ -24,17 +24,9 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
   - **Trabajos finales de posgrados en docencia**
   - 
 - 🏅 **Certificaciones en Tecnologías:**
-
 - **📊 Bootcamp: Data Analytics**
-  - **Institución:** CODERHOUSE
-  - **Fecha de Obtención:** [03-2024]
-  - **Descripción:** Dominio de SQL Server y validación de habilidades en el análisis de datos usando Power BI.
-
 - **🗃️ Bootcamp: SQL**
-  - **Institución:** CODERHOUSE
-  - **Fecha de Obtención:** [08/2024]
-  - **Descripción:** Competencia en la administración de bases de datos MySQL, incluyendo configuración, importación, optimización, entro otros.
-
+ 
 - 🏆 **Logros académicos:** 
   - **Contadora Pública**
   - **Maestría en Dirección y Gestión de Recursos Humanos**

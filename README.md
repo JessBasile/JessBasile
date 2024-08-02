@@ -2,8 +2,8 @@
     <img src="https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true" alt="Descripción de la imagen" style="max-width: 100%; height: auto;">
 </p>
 
-
-## Hi there 👋 
+## ¡Bienvenido! ![Saludo](https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/nombre_del_archivo.gif?raw=true) Siéntete como en casa mientras exploras mis proyectos y contactame si te resulta interesantes 🚀 
+ 
 
 <!--
 **JessBasile/JessBasile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

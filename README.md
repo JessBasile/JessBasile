@@ -17,26 +17,37 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 
 
 
-<div style="text-align: right;">
-- 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE
-- 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
-- 📚 **Tecnologías:** **MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver**
-- 📫 Contactamé a través de **jessbrenba@gmail.com** </div>
- <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
- <div style="text-align: right;">
-- 🚀 **Proyectos destacados:** 
-  - **Desarrollo de dashboards interactivos en Power BI**
-  - **Creación de una base de datos relacional para una empresa**
-  - **Trabajos finales de posgrados en docencia**
-- 🏅 **Certificaciones en Tecnologías:**
-  - **📊 Bootcamp: Data Analytics**
-  - **🗃️ Bootcamp: SQL**
-- 🏆 **Logros académicos:** 
-  - **Contadora Pública**
-  - **Maestría en Dirección y Gestión de Recursos Humanos**
-  - **Múltiples posgrados en docencia universitaria**
-### 🎨 Hobbies:
-  **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
- </div>
+<div style="display: flex; align-items: flex-start;">
+  <!-- Imagen a la izquierda -->
+  <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; margin-right: 15px;">
+  
+  <!-- Texto a la derecha -->
+  <div>
+    <div style="text-align: right;">
+      - 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE<br>
+      - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**<br>
+      - 📚 **Tecnologías:** **MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver**<br>
+      - 📫 Contáctame a través de **jessbrenba@gmail.com**<br><br>
+      
+      - 🚀 **Proyectos destacados:**<br>
+        - **Desarrollo de dashboards interactivos en Power BI**<br>
+        - **Creación de una base de datos relacional para una empresa**<br>
+        - **Trabajos finales de posgrados en docencia**<br><br>
+      
+      - 🏅 **Certificaciones en Tecnologías:**<br>
+        - **📊 Bootcamp: Data Analytics**<br>
+        - **🗃️ Bootcamp: SQL**<br><br>
+      
+      - 🏆 **Logros académicos:**<br>
+        - **Contadora Pública**<br>
+        - **Maestría en Dirección y Gestión de Recursos Humanos**<br>
+        - **Múltiples posgrados en docencia universitaria**<br><br>
+      
+      ### 🎨 Hobbies:<br>
+        **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
+    </div>
+  </div>
+</div>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=blueberry)

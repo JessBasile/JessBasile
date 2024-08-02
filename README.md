@@ -18,7 +18,7 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 
 
 
-
+## Acerca de mi
 <div style="text-align: right;">
 - 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE
 - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**

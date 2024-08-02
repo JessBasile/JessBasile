@@ -25,8 +25,8 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 - 🏅 **Certificaciones en Tecnologías:**
   - **📊 Bootcamp: Data Analytics**
   - **🗃️ Bootcamp: SQL**
-  - 🏆 **Logros académicos:** 
-- **Contadora Pública**
+- 🏆 **Logros académicos:** 
+  - **Contadora Pública**
   - **Maestría en Dirección y Gestión de Recursos Humanos**
   - **Múltiples posgrados en docencia universitaria**
 ### 🎨 Hobbies:

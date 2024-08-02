@@ -18,6 +18,8 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 
 
 
+
+
 ## Acerca de mi
 <div style="text-align: right;">
 - 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE

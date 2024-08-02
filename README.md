@@ -2,9 +2,9 @@
     <img src="https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true" alt="Descripción del GIF" style="width: 100%; max-width: 800px; height: auto;">
 </p>
 
-<h2 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">¡Bienvenido/a! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Siéntete como en casa mientras exploras mis proyectos y contactame si te resulta interesantes 🚀</h2>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<h1 align="center">¡Bienvenido! ![Saludo](https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/nombre_del_archivo.gif?raw=true) Siéntete como en casa mientras exploras mis proyectos y contactame si te resulta interesantes 🚀</h1>
+<h1 align="center">¡Bienvenido! ![Saludo](https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/nombre_del_archivo.gif?raw=true) </h1>
  
 
 <!--

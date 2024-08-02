@@ -14,12 +14,15 @@ Me desempeño como Responsable de finanzas hace más de una década  y como doce
 Mi expectativa es profundizar el campo de análisis de los datos, e incluso incursionar en el mundo de la ingeniería de datos para desarrollar fuertes habilidades y experiencia en la recolección, limpieza y análisis, optimización de procesos y resolución de problemas complejos. Mi carrera se define por un compromiso con el aprendizaje continuo y la adaptación a nuevas tecnologías en un contexto tan dinámico.
 Estoy muy entusiasmada por relacionarme con otras personas que compartan la misma pasión por los datos y explorar oportunidades profesionales que compartan información valiosa y espíritu de crecimiento.
 
+
+
+
 <div style="text-align: right;">
 - 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE
 - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
 - 📚 **Tecnologías:** **MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver**
 - 📫 Contactamé a través de **jessbrenba@gmail.com**
-
+ <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
 - 🚀 **Proyectos destacados:** 
   - **Desarrollo de dashboards interactivos en Power BI**
   - **Creación de una base de datos relacional para una empresa**
@@ -34,5 +37,5 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 ### 🎨 Hobbies:
   **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
  </div>
- <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=blueberry)

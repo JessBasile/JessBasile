@@ -24,7 +24,6 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
   - **Desarrollo de dashboards interactivos en Power BI**
   - **Creación de una base de datos relacional para una empresa**
   - **Trabajos finales de posgrados en docencia**
-<img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
 - 🏅 **Certificaciones en Tecnologías:**
   - **📊 Bootcamp: Data Analytics**
   - **🗃️ Bootcamp: SQL**
@@ -35,5 +34,5 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 ### 🎨 Hobbies:
   **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
  </div>
- 
+ <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=blueberry)

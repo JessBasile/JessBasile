@@ -21,8 +21,9 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 - 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE
 - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
 - 📚 **Tecnologías:** **MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver**
-- 📫 Contactamé a través de **jessbrenba@gmail.com**
+- 📫 Contactamé a través de **jessbrenba@gmail.com** </div>
  <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; float: left; margin-right: 15px;">
+ <div style="text-align: right;">
 - 🚀 **Proyectos destacados:** 
   - **Desarrollo de dashboards interactivos en Power BI**
   - **Creación de una base de datos relacional para una empresa**

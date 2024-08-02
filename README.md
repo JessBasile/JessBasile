@@ -1,4 +1,4 @@
-![Presentacion_Jess](https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true)
+<img src="https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true" alt="Descripción de la imagen" style="width: 100%; height: auto;">
 
 ## Hi there 👋 
 

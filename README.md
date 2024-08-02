@@ -23,7 +23,7 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
   - **Creación de una base de datos relacional para una empresa**
   - **Trabajos finales de posgrados en docencia**
   - 
-## 🏅 Certificaciones en Tecnologías:**
+- 🏅 **Certificaciones en Tecnologías:**
 
 - **📊 Bootcamp: Data Analytics**
   - **Institución:** CODERHOUSE

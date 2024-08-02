@@ -40,5 +40,6 @@ Mi expectativa es profundizar el campo de análisis de los datos, e incluso incu
   **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=blueberry)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JessBasile&show_icons=true&hide_title=true&hide=issues,prs,contribs&theme=blueberry" alt="GitHub Stats">
+</p>

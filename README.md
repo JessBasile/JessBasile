@@ -1,3 +1,4 @@
+![Presentacion_Jess](https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true)
 
 ## Hi there 👋 
 

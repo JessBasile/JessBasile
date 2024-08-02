@@ -2,7 +2,7 @@
     <img src="https://github.com/JessBasile/JessBasile/blob/main/readme_Jess.gif?raw=true" alt="Descripción de la imagen" style="max-width: 100%; height: auto;">
 </p>
 
-## ¡Bienvenido! ![Saludo](https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/nombre_del_archivo.gif?raw=true) Siéntete como en casa mientras exploras mis proyectos y contactame si te resulta interesantes 🚀 
+<h1 align="center">¡Bienvenido! ![Saludo](https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/nombre_del_archivo.gif?raw=true) Siéntete como en casa mientras exploras mis proyectos y contactame si te resulta interesantes 🚀</h1>
  
 
 <!--

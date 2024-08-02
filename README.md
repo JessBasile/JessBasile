@@ -32,9 +32,8 @@ Mi expectativa es profundizar el campo de análisis de los datos, e incluso incu
   - **Contadora Pública**
   - **Maestría en Dirección y Gestión de Recursos Humanos**
   - **Múltiples posgrados en docencia universitaria**
-### 🎨 Hobbies:
+- 🎨 **Hobbies:**
   **Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar**
- </p>
 
 
 

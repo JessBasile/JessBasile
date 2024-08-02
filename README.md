@@ -17,6 +17,9 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 
 
 
+
+
+
 <div style="display: flex; align-items: flex-start;">
   <!-- Imagen a la izquierda -->
   <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 500px; height: auto; margin-right: 15px;">

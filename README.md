@@ -22,10 +22,10 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
 
 <div style="display: flex; align-items: flex-start;">
   <!-- Imagen a la izquierda -->
-  <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 400px; height: auto; margin-right: 20px;">
-  
+  <img src="https://github.com/JessBasile/JessBasile/blob/main/olap%20violeta.png?raw=true" alt="Descripción de la imagen" style="width: 300px; height: auto; margin-right: 20px;">
+
   <!-- Texto a la derecha -->
-  <div style="max-width: 600px;">
+  <div style="flex: 1;">
     <p>- 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE</p>
     <p>- 🛠 <strong>Habilidades:</strong> <strong>Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc</strong></p>
     <p>- 📚 <strong>Tecnologías:</strong> <strong>MySQL, SQL Server, Mysql WorDocker, GitHub, DBeaver</strong></p>
@@ -54,6 +54,7 @@ Estoy muy entusiasmada por relacionarme con otras personas que compartan la mism
     <p><strong>🎨 Hobbies:</strong><br> <strong>Elaboración de material académico gamificativo y proyectos inspirados en empresas reales sobre las tecnologías que aprendo a dominar</strong></p>
   </div>
 </div>
+
 
 
 

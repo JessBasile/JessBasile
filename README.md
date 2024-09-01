@@ -16,7 +16,7 @@ Mi expectativa es profundizar el campo de análisis de los datos, e incluso incu
 
 - 👩‍🎓 Actualmente me encuentro estudiando SQL en CODERHOUSE
 - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
-- 📚 **Tecnologías:** **MySQL, SQL Server, Mysql Workbench, Docker, GitHub.**
+- 📚 **Tecnologías:** **MySQL, SQL Server, Mysql Workbench, Docker Compose, GitHub.**
 - 🖥️ **Interfaces gráficas:** **DBeaver y Visual Studio Code.**
 - 📫 Contactamé a través de **jessbrenba@gmail.com**
 
@@ -31,6 +31,7 @@ Mi expectativa es profundizar el campo de análisis de los datos, e incluso incu
 - 🏅 **Certificaciones en Tecnologías:**
   - **📊 Bootcamp: Data Analytics**
   - **🗃️ Bootcamp: SQL**
+  - **💿 Bootcamp: MongoDB**
 
 - 🏆 **Logros académicos:** 
   - **Contadora Pública**

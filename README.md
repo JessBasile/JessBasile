@@ -16,7 +16,7 @@ Mi expectativa es profundizar el campo de análisis de los datos, e incluso incu
 
 - 👩‍🎓 Actualmente me encuentro estudiando MongoDB en EducacionIT
 - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
-- 📚 **Tecnologías:** **MySQL, SQL Server, Mysql Workbench, MongodDB, Docker Compose, GitHub.**
+- 📚 **Tecnologías:** **MySQL, SQL Server, Mysql Workbench, MongoDB, Docker Compose, GitHub.**
 - 🖥️ **Interfaces gráficas:** **DBeaver, Visual Studio Code y PowerShell.**
 - 📫 Contactamé a través de **jessbrenba@gmail.com**
 

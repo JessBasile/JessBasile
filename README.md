@@ -17,7 +17,7 @@ Mi expectativa es profundizar el campo de análisis de los datos, e incluso incu
 - 👩‍🎓 Actualmente me encuentro estudiando Data Engineer en EducacionIT
 - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
 - 📚 **Tecnologías:** **MySQL, SQL Server, Mysql Workbench, MongoDB, Python, Docker Compose, Git/GitHub.**
-- ⚙️ ** Tecnologías complementarias:** **HTML, CSS, Node.js, SASS y Django.**
+- ⚙️ **Tecnologías complementarias:** **HTML, CSS, Node.js, SASS y Django.**
 - 🖥️ **Interfaces gráficas:** **DBeaver, Visual Studio Code y PowerShell.**
 - 📫 Contactamé a través de **jessbrenba@gmail.com**
 

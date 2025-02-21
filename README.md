@@ -14,9 +14,10 @@ Me desempeño como Responsable de finanzas hace más de una década y como docen
 Mi expectativa es profundizar el campo de análisis de los datos, e incluso incursionar en el mundo de la ingeniería de datos para desarrollar fuertes habilidades, experiencia en la recolección, limpieza, análisis, optimización de procesos y resolución de problemas complejos. Mi carrera se define por un compromiso con el aprendizaje continuo y la adaptación a nuevas tecnologías en un contexto tan dinámico. Estoy muy entusiasmada por relacionarme con otras personas que compartan la misma pasión por los datos y por explorar oportunidades profesionales con espíritu de crecimiento.
 <p>&nbsp;</p>
 
-- 👩‍🎓 Actualmente me encuentro estudiando MongoDB en EducacionIT
+- 👩‍🎓 Actualmente me encuentro estudiando Data Engineer en EducacionIT
 - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, etc**
-- 📚 **Tecnologías:** **MySQL, SQL Server, Mysql Workbench, MongoDB, Docker Compose, GitHub.**
+- 📚 **Tecnologías:** **MySQL, SQL Server, Mysql Workbench, MongoDB, Python, Docker Compose, Git/GitHub.**
+- ⚙️ ** Tecnologías complementarias:** **HTML, CSS, Node.js, SASS y Django.**
 - 🖥️ **Interfaces gráficas:** **DBeaver, Visual Studio Code y PowerShell.**
 - 📫 Contactamé a través de **jessbrenba@gmail.com**
 
@@ -32,6 +33,9 @@ Mi expectativa es profundizar el campo de análisis de los datos, e incluso incu
   - **📊 Bootcamp: Data Analytics**
   - **🗃️ Bootcamp: SQL**
   - **💿 Bootcamp: MongoDB**
+  - **🌐 Bootcamp: Desarrollo Web**
+  - **💹 Bootcamp: Python para finanzas (UTN)**
+  - **🐍 Bootcamp: Python**
 
 - 🏆 **Logros académicos:** 
   - **Contadora Pública**
